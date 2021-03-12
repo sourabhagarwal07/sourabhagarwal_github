@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sourabhwebsite/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/sourabhwebsite/static/js/main.103af5c4.chunk.js",
-    "main.js.map": "/sourabhwebsite/static/js/main.103af5c4.chunk.js.map",
-    "runtime-main.js": "/sourabhwebsite/static/js/runtime-main.2c67889c.js",
-    "runtime-main.js.map": "/sourabhwebsite/static/js/runtime-main.2c67889c.js.map",
-    "static/js/2.678c59ac.chunk.js": "/sourabhwebsite/static/js/2.678c59ac.chunk.js",
-    "static/js/2.678c59ac.chunk.js.map": "/sourabhwebsite/static/js/2.678c59ac.chunk.js.map",
-    "static/js/3.3ad1bf43.chunk.js": "/sourabhwebsite/static/js/3.3ad1bf43.chunk.js",
-    "static/js/3.3ad1bf43.chunk.js.map": "/sourabhwebsite/static/js/3.3ad1bf43.chunk.js.map",
-    "index.html": "/sourabhwebsite/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/sourabhwebsite/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.678c59ac.chunk.js.LICENSE.txt": "/sourabhwebsite/static/js/2.678c59ac.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/sourabhwebsite/static/media/logo.6ce24c58.svg"
+    "main.css": "/sourabhagarwal_github/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/sourabhagarwal_github/static/js/main.103af5c4.chunk.js",
+    "main.js.map": "/sourabhagarwal_github/static/js/main.103af5c4.chunk.js.map",
+    "runtime-main.js": "/sourabhagarwal_github/static/js/runtime-main.ea841e66.js",
+    "runtime-main.js.map": "/sourabhagarwal_github/static/js/runtime-main.ea841e66.js.map",
+    "static/js/2.678c59ac.chunk.js": "/sourabhagarwal_github/static/js/2.678c59ac.chunk.js",
+    "static/js/2.678c59ac.chunk.js.map": "/sourabhagarwal_github/static/js/2.678c59ac.chunk.js.map",
+    "static/js/3.3ad1bf43.chunk.js": "/sourabhagarwal_github/static/js/3.3ad1bf43.chunk.js",
+    "static/js/3.3ad1bf43.chunk.js.map": "/sourabhagarwal_github/static/js/3.3ad1bf43.chunk.js.map",
+    "index.html": "/sourabhagarwal_github/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/sourabhagarwal_github/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.678c59ac.chunk.js.LICENSE.txt": "/sourabhagarwal_github/static/js/2.678c59ac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sourabhagarwal_github/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c67889c.js",
+    "static/js/runtime-main.ea841e66.js",
     "static/js/2.678c59ac.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.103af5c4.chunk.js"
