@@ -1,25 +1,25 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import {WorkEx} from './Workex/workex'
+import {Education} from './Education/Education'
+import {Skills} from './Skills/skills'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+ render()
+ {
+   return(
+       <div>
+         <div class="work">
+         <WorkEx />
+         </div>
+        <div class="education">
+         <Education />
+         </div>
+        <div class="skill">
+         <Skills />
+         </div>
+       </div>
+   );
+ } 
 }
-
 export default App;
