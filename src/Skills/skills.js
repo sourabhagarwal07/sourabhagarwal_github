@@ -18,11 +18,11 @@ export class Skills extends React.Component
             for (let d in data){
                 newstate.push({
                     name:d,
-                    value:data[d].value,
+                    value:data[d].value
                 });
             }
             this.setState({
-                skills:newstate
+                skills:newstate,
             });
         });
     }

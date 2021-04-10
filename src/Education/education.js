@@ -1,6 +1,8 @@
 import React, { Fragment } from 'react';
 import { db } from '../firebase/firebase';
 import { Card,Image, CardContent, Grid} from 'semantic-ui-react';
+import university_ottawa from '../images/university_ottawa.png';
+import university_srm from '../images/Srmseal.png';
 import './education.css'
 
 export class Education extends React.Component {
@@ -40,15 +42,27 @@ export class Education extends React.Component {
             <Fragment id="education_fragment">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 319"><path fill="#0099ff" fill-opacity="1" d="M0,256L80,229.3C160,203,320,149,480,117.3C640,85,800,75,960,69.3C1120,64,1280,64,1360,64L1440,64L1440,0L1360,0C1280,0,1120,0,960,0C800,0,640,0,480,0C320,0,160,0,80,0L0,0Z"></path></svg>
                 <h1 className="education_header">Education</h1>
-            <Grid id="education_grid" stackable>
+            <Grid id="education_grid" stackable centered>
             {this.state.education_university.map((e) =>{
+                var card_image;
+                var alt_text;
+                if(e.name==="University of Ottawa")
+                {
+                  card_image = university_ottawa;
+                  alt_text = "University of Ottawa";   
+                }
+                else if(e.name==="SRM Univverssity")
+                {
+                 card_image = university_srm;
+                 alt_text = "SRM university";
+                }
             return(
                 <Grid.Column container floated='left' computer={4} mobile={2}>
                 <Card key={e.name}>
-                    <Image src="" height="100px" width="100px" alt="no_image" wrapped ui={false}/>
+                <Image src={card_image} height="100px" width="100px" alt={alt_text} wrapped ui={false}/>
                 <CardContent>
                     <Card.Header>{e.name}</Card.Header>
-                    <Card.Meta>{e.course}</Card.Meta>
+                    <Card.Meta>{e.level} in {e.course}</Card.Meta>
                 </CardContent>
                 </Card>
                 </Grid.Column>
