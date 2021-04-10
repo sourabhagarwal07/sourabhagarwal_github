@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.js": "/sourabhagarwal_github/static/js/main.21f20c1a.chunk.js",
-    "main.js.map": "/sourabhagarwal_github/static/js/main.21f20c1a.chunk.js.map",
-    "runtime-main.js": "/sourabhagarwal_github/static/js/runtime-main.e0d1acf3.js",
-    "runtime-main.js.map": "/sourabhagarwal_github/static/js/runtime-main.e0d1acf3.js.map",
+    "main.css": "/sourabhagarwal_github/static/css/main.002d7b14.chunk.css",
+    "main.js": "/sourabhagarwal_github/static/js/main.0315acba.chunk.js",
+    "main.js.map": "/sourabhagarwal_github/static/js/main.0315acba.chunk.js.map",
+    "runtime-main.js": "/sourabhagarwal_github/static/js/runtime-main.ac8d2d33.js",
+    "runtime-main.js.map": "/sourabhagarwal_github/static/js/runtime-main.ac8d2d33.js.map",
     "static/css/2.7d7f2a00.chunk.css": "/sourabhagarwal_github/static/css/2.7d7f2a00.chunk.css",
-    "static/js/2.c36dd9ed.chunk.js": "/sourabhagarwal_github/static/js/2.c36dd9ed.chunk.js",
-    "static/js/2.c36dd9ed.chunk.js.map": "/sourabhagarwal_github/static/js/2.c36dd9ed.chunk.js.map",
-    "static/js/3.5aa0daa3.chunk.js": "/sourabhagarwal_github/static/js/3.5aa0daa3.chunk.js",
-    "static/js/3.5aa0daa3.chunk.js.map": "/sourabhagarwal_github/static/js/3.5aa0daa3.chunk.js.map",
+    "static/js/2.ca044cc4.chunk.js": "/sourabhagarwal_github/static/js/2.ca044cc4.chunk.js",
+    "static/js/2.ca044cc4.chunk.js.map": "/sourabhagarwal_github/static/js/2.ca044cc4.chunk.js.map",
+    "static/js/3.8ea7efe2.chunk.js": "/sourabhagarwal_github/static/js/3.8ea7efe2.chunk.js",
+    "static/js/3.8ea7efe2.chunk.js.map": "/sourabhagarwal_github/static/js/3.8ea7efe2.chunk.js.map",
     "index.html": "/sourabhagarwal_github/index.html",
     "static/css/2.7d7f2a00.chunk.css.map": "/sourabhagarwal_github/static/css/2.7d7f2a00.chunk.css.map",
-    "static/js/2.c36dd9ed.chunk.js.LICENSE.txt": "/sourabhagarwal_github/static/js/2.c36dd9ed.chunk.js.LICENSE.txt",
+    "static/css/main.002d7b14.chunk.css.map": "/sourabhagarwal_github/static/css/main.002d7b14.chunk.css.map",
+    "static/js/2.ca044cc4.chunk.js.LICENSE.txt": "/sourabhagarwal_github/static/js/2.ca044cc4.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/sourabhagarwal_github/static/media/outline-icons.ddae9b1b.woff",
     "static/media/lemay.89cb46e5.png": "/sourabhagarwal_github/static/media/lemay.89cb46e5.png",
     "static/media/statistics.46702cb8.png": "/sourabhagarwal_github/static/media/statistics.46702cb8.png",
     "static/media/university_ottawa.c4bb092b.png": "/sourabhagarwal_github/static/media/university_ottawa.c4bb092b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0d1acf3.js",
+    "static/js/runtime-main.ac8d2d33.js",
     "static/css/2.7d7f2a00.chunk.css",
-    "static/js/2.c36dd9ed.chunk.js",
-    "static/js/main.21f20c1a.chunk.js"
+    "static/js/2.ca044cc4.chunk.js",
+    "static/css/main.002d7b14.chunk.css",
+    "static/js/main.0315acba.chunk.js"
   ]
 }
