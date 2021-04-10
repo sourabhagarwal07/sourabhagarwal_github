@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sourabhagarwal_github/static/css/main.002d7b14.chunk.css",
-    "main.js": "/sourabhagarwal_github/static/js/main.0315acba.chunk.js",
-    "main.js.map": "/sourabhagarwal_github/static/js/main.0315acba.chunk.js.map",
+    "main.js": "/sourabhagarwal_github/static/js/main.4a36a8b3.chunk.js",
+    "main.js.map": "/sourabhagarwal_github/static/js/main.4a36a8b3.chunk.js.map",
     "runtime-main.js": "/sourabhagarwal_github/static/js/runtime-main.ac8d2d33.js",
     "runtime-main.js.map": "/sourabhagarwal_github/static/js/runtime-main.ac8d2d33.js.map",
     "static/css/2.7d7f2a00.chunk.css": "/sourabhagarwal_github/static/css/2.7d7f2a00.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.7d7f2a00.chunk.css.map": "/sourabhagarwal_github/static/css/2.7d7f2a00.chunk.css.map",
     "static/css/main.002d7b14.chunk.css.map": "/sourabhagarwal_github/static/css/main.002d7b14.chunk.css.map",
     "static/js/2.ca044cc4.chunk.js.LICENSE.txt": "/sourabhagarwal_github/static/js/2.ca044cc4.chunk.js.LICENSE.txt",
+    "static/media/Srmseal.ddb598e3.png": "/sourabhagarwal_github/static/media/Srmseal.ddb598e3.png",
     "static/media/semantic.min.css": "/sourabhagarwal_github/static/media/outline-icons.ddae9b1b.woff",
     "static/media/lemay.89cb46e5.png": "/sourabhagarwal_github/static/media/lemay.89cb46e5.png",
     "static/media/statistics.46702cb8.png": "/sourabhagarwal_github/static/media/statistics.46702cb8.png",
@@ -24,6 +25,6 @@
     "static/css/2.7d7f2a00.chunk.css",
     "static/js/2.ca044cc4.chunk.js",
     "static/css/main.002d7b14.chunk.css",
-    "static/js/main.0315acba.chunk.js"
+    "static/js/main.4a36a8b3.chunk.js"
   ]
 }
