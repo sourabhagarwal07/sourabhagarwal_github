@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import {WorkEx} from './Workex/workex'
-import {Education} from './Education/Education'
+import {Education} from './Education/education'
 import {Skills} from './Skills/skills'
 
 class App extends React.Component {
