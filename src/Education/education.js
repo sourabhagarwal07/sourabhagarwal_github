@@ -57,7 +57,7 @@ export class Education extends React.Component {
                  alt_text = "SRM university";
                 }
             return(
-                <Grid.Column container floated='left' computer={4} mobile={2}>
+                <Grid.Column container verticalAlign='middle' floated='left' computer={4} mobile={8}>
                 <Card key={e.name}>
                 <Image src={card_image} height="100px" width="100px" alt={alt_text} wrapped ui={false}/>
                 <CardContent>
