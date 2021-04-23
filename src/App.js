@@ -8,7 +8,7 @@ class App extends React.Component {
  render()
  {
    return(
-       <div>
+       <div class="mainapp">
          <div class="work">
          <WorkEx />
          </div>

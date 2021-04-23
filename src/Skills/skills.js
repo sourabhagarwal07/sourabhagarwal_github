@@ -33,7 +33,7 @@ export class Skills extends React.Component
         <div>this is test
         {this.state.skills.map((e) => {
             return(
-                <li key={e.name}>{e.name}</li>
+                <li key={e.name}>{e.name}:{e.value}</li>
             );
         })}
         </div>

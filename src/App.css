@@ -1,4 +1,8 @@
 .work
 {
- 
+ margin: 0px;
+}
+.education
+{
+    margin-block-start: -4px;
 }
